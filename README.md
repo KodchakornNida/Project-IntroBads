@@ -19,4 +19,4 @@ DATA PREPARATION
 
 Data analysis
 
-  Using Cosine Similarity : to create Association making recommendations based on the rules
+- Using Cosine Similarity : to create Association making recommendations based on the rules
